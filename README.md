@@ -20,3 +20,14 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Desenvolvedor apaixonado por tecnologia e por criar soluções que resolvam problemas reais. Gosto de aprender coisas novas todos os dias, trabalhar com código limpo e construir boas experiências para o usuário.
+
+- 🌱 Atualmente estou aprendendo e me aprimorando em novas tecnologias
+- 💻 Apaixonado por desenvolvimento de software e boas práticas
+- 🚀 Sempre em busca de novos desafios e oportunidades
+- 📫 Como chegar até mim: seu-email@gmail.com
