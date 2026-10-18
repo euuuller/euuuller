@@ -46,3 +46,25 @@ Desenvolvedor apaixonado por tecnologia e por criar soluções que resolvam prob
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=euuuller&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euuuller&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">LinkedIn</a> •
+  <a href="https://seu-curriculo.com" target="_blank">Currículo</a> •
+  <a href="https://seu-portfolio.com" target="_blank">Portfólio</a> •
+  <a href="mailto:seu-email@gmail.com">Gmail</a>
+</p>
+
+<p align="center">
+  Obrigado pela visita! ⭐
+</p>
