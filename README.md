@@ -1,7 +1,3 @@
-# euuuller
-
-<h1 align="center">Olá, eu sou o Euuuller 👋</h1>
-
 <p align="center">
   <img src="Image/Banner.png" alt="Banner" />
 </p>
@@ -21,16 +17,10 @@
   </a>
 </p>
 
----
+<p align="justify">
+Graduando em Engenharia Elétrica com atuação direcionada à Análise e Ciência de Dados. Combino o rigor analítico, a modelagem matemática e a visão de sistemas da engenharia com a inteligência de dados para transformar volumes complexos de informação em <em>insights</em> acionáveis e decisões de alto valor. Tenho experiência no desenvolvimento de pipelines de dados, modelagem preditiva e análises exploratórias utilizando Python (Polars, Pandas, Scikit-learn), SQL, dbt e Power BI. Focado em resolver problemas reais de negócio através da estatística aplicada e do aprendizado de máquina, busco constantemente entregar soluções eficientes, escaláveis e fundamentadas em dados.
+</p>
 
-## 👨‍💻 Sobre mim
-
-Desenvolvedor apaixonado por tecnologia e por criar soluções que resolvam problemas reais. Gosto de aprender coisas novas todos os dias, trabalhar com código limpo e construir boas experiências para o usuário.
-
-- 🌱 Atualmente estou aprendendo e me aprimorando em novas tecnologias
-- 💻 Apaixonado por desenvolvimento de software e boas práticas
-- 🚀 Sempre em busca de novos desafios e oportunidades
-- 📫 Como chegar até mim: seu-email@gmail.com
 
 ---
 
