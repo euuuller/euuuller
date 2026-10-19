@@ -44,6 +44,6 @@ Graduando em Engenharia Elétrica com atuação direcionada à Análise e Ciênc
 
 
 <p align="center">
-  Obrigado pela visita! 🚀<br />
-  Gostou do que viu? Vamos trocar uma ideia sobre dados, engenharia e tecnologia — será um prazer. ⭐
+  Obrigado pela visita!<br />
+  Será um prazer me conectar com você, desde já um forte abraço!
 </p>
